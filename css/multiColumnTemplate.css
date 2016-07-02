@@ -232,6 +232,10 @@
 	border-top-width: 2px;
 	font-family: "Source Sans Pro";
 }
+.publication_list li {
+	 margin:0 20px 20px 0; 
+}
+
 body {
 	margin-top: 0px;
 	margin-right: 0px;
