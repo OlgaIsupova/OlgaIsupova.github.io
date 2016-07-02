@@ -169,6 +169,7 @@
 	cursor: pointer;
 }
 .footer {
+	display:none;
 	overflow:hidden;
 	position:fixed;
 	width: 90%;
@@ -450,6 +451,7 @@ body {
 }
 
 .footer {
+	display:none;
 	overflow:hidden;
 	position:fixed;
 	width: 90%;
