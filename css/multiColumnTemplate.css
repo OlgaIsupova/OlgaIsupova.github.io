@@ -169,6 +169,7 @@
 	cursor: pointer;
 }
 .footer {
+	overflow:hidden;
 	position:fixed;
 	width: 90%;
 	margin-left: auto;
@@ -322,6 +323,10 @@ body {
 }
 .container .secondary_header {
 }
+
+.footer {
+	display:none;
+}
 }
 
 @media (min-width: 321px) and (max-width: 768px) {
@@ -396,6 +401,9 @@ body {
 .column_half.right_half {
 	width: 100%;
 }
+.footer {
+	display:none;
+}
 }
 
 @media (min-width: 769px) and (max-width: 1000px) {
@@ -436,6 +444,23 @@ body {
 	padding-left: 25px;
 	padding-right: 25px;
 }
+
+.footer {
+	overflow:hidden;
+	position:fixed;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 0px;
+	padding-right: 0px;
+	bottom:0px;
+    left:0px;
+    right:0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #717070;   
+}
+
 }
 
 @media (min-width: 1001px) {
