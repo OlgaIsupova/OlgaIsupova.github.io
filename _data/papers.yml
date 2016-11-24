@@ -1,0 +1,87 @@
+- title: Learning methods for dynamic topic modeling in automated behaviour analysis
+  authors:
+    - Olga Isupova
+    - Danil Kuzin
+    - Lyudmila Mihaylova
+  year: under review
+  where: IEEE Transactions on Neural Networks and Learning Systems
+
+- title: Autonomous flame detection in video based on saliency analysis and optical flow
+  authors:
+    - Zhenglin Li
+    - Olga Isupova
+    - Lyudmila Mihaylova
+    - Lucile Rossi
+  year: 2016
+  where: IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems
+
+- title: Dynamic Hierarchical Dirichlet Process for abnormal behaviour detection in video
+  authors:
+    - Olga Isupova
+    - Danil Kuzin
+    - Lyudmila Mihaylova
+  year: 2016
+  where: 19th International Conference on Information Fusion (Fusion)
+  links:
+    - IEEE:
+      title: IEEE
+      url: http://ieeexplore.ieee.org/document/7527962/
+    - arXiv:
+      title: arXiv
+      url: http://arxiv.org/abs/1606.08476
+    - Code:
+      title: Code
+      url: https://github.com/OlgaIsupova/dynamic-hdp
+
+- title: Compressive sensing approaches for autonomous object detection in video sequences
+  authors:
+    - Danil Kuzin
+    - Olga Isupova
+    - Lyudmila Mihaylova
+  year: 2015
+  where: 10th Workshop on Sensor Data Fusion&#58; Trends, Solutions, Applications (SDF)
+  links:
+    - IEEE:
+      title: IEEE
+      url: http://ieeexplore.ieee.org/document/7347706/
+    - ResearchGate:
+      title: ResearchGate
+      url: https://www.researchgate.net/publication/283667091_Compressive_Sensing_Approaches_for_Autonomous_Object_Detection_in_Video_Sequences?ev=prf_pub
+
+- title: An expectation maximisation algorithm for behaviour analysis in video
+  authors:
+    - Olga Isupova
+    - Danil Kuzin
+    - Lyudmila Mihaylova
+    - Garik Markarian
+    - Francois Septier
+  year: 2015
+  where: 18th International Conference on Information Fusion (Fusion)
+  links:
+    - IEEE:
+      title: IEEE
+      url: http://ieeexplore.ieee.org/document/7266553/
+    - ResearchGate:
+      title: ResearchGate
+      url: https://www.researchgate.net/publication/303620627_An_Expectation_Maximisation_Algorithm_for_Behaviour_Analysis_in_Video
+    - YouTube:
+      title: YouTube
+      url: https://www.youtube.com/watch?v=Owy2S4dkbtc
+
+- title: Abnormal behaviour detection in video using topic modeling
+  authors:
+    - Olga Isupova
+    - Danil Kuzin
+    - Lyudmila Mihaylova
+  year: 2015
+  where: University of Sheffield Engineering Symposium
+  links:
+    - WhiteRose:
+      title: WhiteRose
+      url: http://eprints.whiterose.ac.uk/103943/
+
+- title: Matching a hierarchical topic model with external subject authorities
+  authors:
+    - Olga Isupova
+  year: 2012
+  where: International Conference of Students and Young Scientists "Lomonosov-2012"

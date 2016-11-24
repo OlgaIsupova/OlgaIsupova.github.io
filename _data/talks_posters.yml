@@ -1,0 +1,21 @@
+- title: Anomaly detection in video with Bayesian nonparametrics
+  authors:
+    - Olga Isupova
+    - Danil Kuzin
+    - Lyudmila Mihaylova
+  year: 2016
+  where: ICML Anomaly detection workshop
+  links:
+    - arXiv:
+      title: arXiv
+      url: http://arxiv.org/abs/1606.08455
+    - poster:
+      title: poster
+      url: files/posters/AnomalyDetectionDynamicHDP_Poster.pdf
+
+- title: Modern video analytics systems
+  authors:
+    - Olga Isupova
+  year: 2016
+  where: Sheffield science week
+  slides: https://drive.google.com/folderview?id=0B3WDT-c5Xv6fdVRBS2lHSVg5RUk&usp=sharing
