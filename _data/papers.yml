@@ -5,6 +5,10 @@
     - Lyudmila Mihaylova
   year: under review
   where: IEEE Transactions on Neural Networks and Learning Systems
+  links:
+    - arXiv:
+      title: arXiv
+      url: https://arxiv.org/abs/1611.00565
 
 - title: Autonomous flame detection in video based on saliency analysis and optical flow
   authors:
