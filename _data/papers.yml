@@ -9,6 +9,14 @@
     - arXiv:
       title: arXiv
       url: https://arxiv.org/abs/1611.00565
+      
+- title: Structured sparse modelling with hierarchical GP
+  authors:
+    - Danil Kuzin
+    - Olga Isupova
+    - Lyudmila Mihaylova
+  year: 2017
+  where: Signal Processing with Adaptive Sparse Structured Representations (SPARS) workshop
 
 - title: Autonomous flame detection in video based on saliency analysis and optical flow
   authors:
