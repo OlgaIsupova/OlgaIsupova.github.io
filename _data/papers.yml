@@ -17,6 +17,10 @@
     - Lyudmila Mihaylova
   year: 2017
   where: Signal Processing with Adaptive Sparse Structured Representations (SPARS) workshop
+  links:
+    - arXiv:
+      title: arXiv
+      url: https://arxiv.org/abs/1704.08727
 
 - title: Autonomous flame detection in video based on saliency analysis and optical flow
   authors:
