@@ -1,3 +1,18 @@
+- title: Structured Sparse Modelling with Hierarchical GP
+  authors:
+    - Danil Kuzin
+    - Olga Isupova
+    - Lyudmila Mihaylova
+  year: 2017
+  where: Signal Processing with Adaptive Sparse Structured Representations (SPARS) Workshop
+  links:
+    - arXiv:
+      title: arXiv
+      url: https://arxiv.org/abs/1704.08727
+    - poster:
+      title: poster
+      url: files/posters/StructuralSparseModelling_Poster.pdf
+
 - title: Anomaly detection in video with Bayesian nonparametrics
   authors:
     - Olga Isupova
