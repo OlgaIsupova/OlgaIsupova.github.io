@@ -9,7 +9,17 @@
     - arXiv:
       title: arXiv
       url: https://arxiv.org/abs/1611.00565
-      
+
+- title: Online Vehicle Logo Recognition Using Cauchy Prior Logistic Regression
+  authors:
+    - Ruilong Chen
+    - Matthew Hawes
+    - Olga Isupova
+    - Lyudmila Mihaylova
+    - Hao Zhu
+  year: 2017
+  where: 20th International Conference on Information Fusion (Fusion)
+
 - title: Structured sparse modelling with hierarchical GP
   authors:
     - Danil Kuzin
