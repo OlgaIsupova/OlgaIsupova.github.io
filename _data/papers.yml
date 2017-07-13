@@ -19,6 +19,10 @@
     - Hao Zhu
   year: 2017
   where: 20th International Conference on Information Fusion (Fusion)
+  links:
+    - ResearchGate:
+      title: ResearchGate
+      url: https://www.researchgate.net/publication/317245965_Online_Vehicle_Logo_Recognition_Using_Cauchy_Prior_Logistic_Regression
 
 - title: Structured sparse modelling with hierarchical GP
   authors:
@@ -40,6 +44,13 @@
     - Lucile Rossi
   year: 2016
   where: IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems
+  links:
+    - IEEE:
+      title: IEEE
+      url: http://ieeexplore.ieee.org/document/7849492/
+    - ResearchGate:
+      title: ResearchGate
+      url: https://www.researchgate.net/publication/313691476_Autonomous_flame_detection_in_video_based_on_saliency_analysis_and_optical_flow
 
 - title: Dynamic Hierarchical Dirichlet Process for abnormal behaviour detection in video
   authors:
