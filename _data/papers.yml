@@ -3,12 +3,31 @@
     - Olga Isupova
     - Danil Kuzin
     - Lyudmila Mihaylova
-  year: to appear
+  year: 2017
   where: IEEE Transactions on Neural Networks and Learning Systems
   links:
+    - IEEE:
+      title: IEEE
+      url: http://ieeexplore.ieee.org/document/8052214/
     - arXiv:
       title: arXiv
       url: https://arxiv.org/abs/1611.00565
+    - Code:
+      title: Code
+      url: https://github.com/OlgaIsupova/Learning_methods_dynamic_TM
+      
+- title: Autonomous Flame Detection in Videos with a Dirichlet Process Gaussian Mixture Color Model
+  authors:
+    - Zhenglin Li
+    - Olga Isupova
+    - Lyudmila Mihaylova
+    - Lucile Rossi
+  year: 2017
+  where: IEEE Transactions on Industrial Informatics
+  links:
+     - IEEE:
+      title: IEEE
+      url: http://ieeexplore.ieee.org/document/8093689/ 
 
 - title: Online Vehicle Logo Recognition Using Cauchy Prior Logistic Regression
   authors:
@@ -20,6 +39,9 @@
   year: 2017
   where: 20th International Conference on Information Fusion (Fusion)
   links:
+    - IEEE:
+      title: IEEE
+      url: http://ieeexplore.ieee.org/document/8009720/
     - ResearchGate:
       title: ResearchGate
       url: https://www.researchgate.net/publication/317245965_Online_Vehicle_Logo_Recognition_Using_Cauchy_Prior_Logistic_Regression
