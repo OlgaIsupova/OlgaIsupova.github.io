@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications_and_Code
+title: Pub
 ---
 
 # Publications
