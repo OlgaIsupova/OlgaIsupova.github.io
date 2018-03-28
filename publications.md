@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Publications and Code
+title: Publications
 ---
 
-# Publications
+# Publications and Code
 
 {% for paper in site.data.papers %}
 * {{ paper.authors | array_to_sentence_string }} \\
