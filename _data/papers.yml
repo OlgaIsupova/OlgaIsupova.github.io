@@ -1,184 +1,189 @@
-## 2018
-- title: Spatio-Temporal Structured Sparse Regression with Hierarchical Gaussian Process Priors
-  authors:
-    - Danil Kuzin
-    - Olga Isupova
-    - Lyudmila Mihaylova
-  year: 2018
-  where: IEEE Transactions on Signal Processing
-  links:
-    - IEEE:
-      title: IEEE
-      url: https://ieeexplore.ieee.org/document/8417456/
-    - arXiv:
-      title: arXiv
-      url: https://arxiv.org/abs/1807.05561
-    - Code:
-      title: Code
-      url: https://github.com/danilkuzin/Spatio-Temporal-Structured-Sparse-Regression-With-Hierarchical-Gaussian-Process-Priors
+- 2018:
+   - spsl:
+     title: Spatio-Temporal Structured Sparse Regression with Hierarchical Gaussian Process Priors
+     authors:
+       - Danil Kuzin
+       - Olga Isupova
+       - Lyudmila Mihaylova
+     where: IEEE Transactions on Signal Processing
+     links:
+       - IEEE:
+         title: IEEE
+         url: https://ieeexplore.ieee.org/document/8417456/
+       - arXiv:
+         title: arXiv
+         url: https://arxiv.org/abs/1807.05561
+       - Code:
+         title: Code
+         url: https://github.com/danilkuzin/Spatio-Temporal-Structured-Sparse-Regression-With-Hierarchical-Gaussian-Process-Priors
 
-- title: Ensemble Kalman Filtering for Online Gaussian Process Regression and Learning
-  authors:
-    - Danil Kuzin
-    - Le Yang
-    - Olga Isupova
-    - Lyudmila Mihaylova
-  year: 2018
-  where: 21st International Conference on Information Fusion (Fusion)
-  links:
-    - IEEE:
-      title: IEEE
-      url: https://ieeexplore.ieee.org/document/8455785
-    - arXiv:
-      title: arXiv
-      url: https://arxiv.org/abs/1807.03369
-    - Code:
-      title: Code
-      url: https://github.com/danilkuzin/GP-EnKF
+    - gpenkf:
+      title: Ensemble Kalman Filtering for Online Gaussian Process Regression and Learning
+      authors:
+        - Danil Kuzin
+        - Le Yang
+        - Olga Isupova
+        - Lyudmila Mihaylova
+      where: 21st International Conference on Information Fusion (Fusion)
+      links:
+        - IEEE:
+          title: IEEE
+          url: https://ieeexplore.ieee.org/document/8455785
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/1807.03369
+        - Code:
+          title: Code
+          url: https://github.com/danilkuzin/GP-EnKF
     
-- title: Learning methods for dynamic topic modeling in automated behaviour analysis
-  authors:
-    - Olga Isupova
-    - Danil Kuzin
-    - Lyudmila Mihaylova
-  year: 2018
-  where: IEEE Transactions on Neural Networks and Learning Systems
-  links:
-    - IEEE:
-      title: IEEE
-      url: http://ieeexplore.ieee.org/document/8052214/
-    - arXiv:
-      title: arXiv
-      url: https://arxiv.org/abs/1611.00565
-    - Code:
-      title: Code
-      url: https://github.com/OlgaIsupova/Learning_methods_dynamic_TM
-      
-- title: Autonomous Flame Detection in Videos with a Dirichlet Process Gaussian Mixture Color Model
-  authors:
-    - Zhenglin Li
-    - Olga Isupova
-    - Lyudmila Mihaylova
-    - Lucile Rossi
-  year: 2017
-  where: IEEE Transactions on Industrial Informatics
-  links:
-    - IEEE:
-      title: IEEE
-      url: http://ieeexplore.ieee.org/document/8093689/ 
+    - mctm:
+      title: Learning methods for dynamic topic modeling in automated behaviour analysis
+      authors:
+        - Olga Isupova
+        - Danil Kuzin
+        - Lyudmila Mihaylova
+      year: 2018
+      where: IEEE Transactions on Neural Networks and Learning Systems
+      links:
+        - IEEE:
+          title: IEEE
+          url: http://ieeexplore.ieee.org/document/8052214/
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/1611.00565
+        - Code:
+          title: Code
+          url: https://github.com/OlgaIsupova/Learning_methods_dynamic_TM
+   
+- 2017:
+    - flamedet_j:
+      title: Autonomous Flame Detection in Videos with a Dirichlet Process Gaussian Mixture Color Model
+      authors:
+        - Zhenglin Li
+        - Olga Isupova
+        - Lyudmila Mihaylova
+        - Lucile Rossi
+      where: IEEE Transactions on Industrial Informatics
+      links:
+        - IEEE:
+          title: IEEE
+          url: http://ieeexplore.ieee.org/document/8093689/ 
 
-- title: Online Vehicle Logo Recognition Using Cauchy Prior Logistic Regression
-  authors:
-    - Ruilong Chen
-    - Matthew Hawes
-    - Olga Isupova
-    - Lyudmila Mihaylova
-    - Hao Zhu
-  year: 2017
-  where: 20th International Conference on Information Fusion (Fusion)
-  links:
-    - IEEE:
-      title: IEEE
-      url: http://ieeexplore.ieee.org/document/8009720/
-    - ResearchGate:
-      title: ResearchGate
-      url: https://www.researchgate.net/publication/317245965_Online_Vehicle_Logo_Recognition_Using_Cauchy_Prior_Logistic_Regression
+    - logo:
+      title: Online Vehicle Logo Recognition Using Cauchy Prior Logistic Regression
+      authors:
+        - Ruilong Chen
+        - Matthew Hawes
+        - Olga Isupova
+        - Lyudmila Mihaylova
+        - Hao Zhu
+      where: 20th International Conference on Information Fusion (Fusion)
+      links:
+        - IEEE:
+          title: IEEE
+          url: http://ieeexplore.ieee.org/document/8009720/
+        - ResearchGate:
+          title: ResearchGate
+          url: https://www.researchgate.net/publication/317245965_Online_Vehicle_Logo_Recognition_Using_Cauchy_Prior_Logistic_Regression
 
-- title: Structured sparse modelling with hierarchical GP
-  authors:
-    - Danil Kuzin
-    - Olga Isupova
-    - Lyudmila Mihaylova
-  year: 2017
-  where: Signal Processing with Adaptive Sparse Structured Representations (SPARS) workshop
-  links:
-    - arXiv:
-      title: arXiv
-      url: https://arxiv.org/abs/1704.08727
+    - spars:
+      title: Structured sparse modelling with hierarchical GP
+      authors:
+        - Danil Kuzin
+        - Olga Isupova
+        - Lyudmila Mihaylova
+      where: Signal Processing with Adaptive Sparse Structured Representations (SPARS) workshop
+      links:
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/1704.08727
 
-- title: Autonomous flame detection in video based on saliency analysis and optical flow
-  authors:
-    - Zhenglin Li
-    - Olga Isupova
-    - Lyudmila Mihaylova
-    - Lucile Rossi
-  year: 2016
-  where: IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems
-  links:
-    - IEEE:
-      title: IEEE
-      url: http://ieeexplore.ieee.org/document/7849492/
-    - ResearchGate:
-      title: ResearchGate
-      url: https://www.researchgate.net/publication/313691476_Autonomous_flame_detection_in_video_based_on_saliency_analysis_and_optical_flow
+-2016:
+    - flame_c:
+      title: Autonomous flame detection in video based on saliency analysis and optical flow
+      authors:
+        - Zhenglin Li
+        - Olga Isupova
+        - Lyudmila Mihaylova
+        - Lucile Rossi
+      where: IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems
+      links:
+        - IEEE:
+          title: IEEE
+          url: http://ieeexplore.ieee.org/document/7849492/
+        - ResearchGate:
+          title: ResearchGate
+          url: https://www.researchgate.net/publication/313691476_Autonomous_flame_detection_in_video_based_on_saliency_analysis_and_optical_flow
 
-- title: Dynamic Hierarchical Dirichlet Process for abnormal behaviour detection in video
-  authors:
-    - Olga Isupova
-    - Danil Kuzin
-    - Lyudmila Mihaylova
-  year: 2016
-  where: 19th International Conference on Information Fusion (Fusion)
-  links:
-    - IEEE:
-      title: IEEE
-      url: http://ieeexplore.ieee.org/document/7527962/
-    - arXiv:
-      title: arXiv
-      url: http://arxiv.org/abs/1606.08476
-    - Code:
-      title: Code
-      url: https://github.com/OlgaIsupova/dynamic-hdp
+    - dynamic_hdp:
+      title: Dynamic Hierarchical Dirichlet Process for abnormal behaviour detection in video
+      authors:
+        - Olga Isupova
+        - Danil Kuzin
+        - Lyudmila Mihaylova
+      where: 19th International Conference on Information Fusion (Fusion)
+      links:
+        - IEEE:
+          title: IEEE
+          url: http://ieeexplore.ieee.org/document/7527962/
+        - arXiv:
+          title: arXiv
+          url: http://arxiv.org/abs/1606.08476
+        - Code:
+          title: Code
+          url: https://github.com/OlgaIsupova/dynamic-hdp
 
-- title: Compressive sensing approaches for autonomous object detection in video sequences
-  authors:
-    - Danil Kuzin
-    - Olga Isupova
-    - Lyudmila Mihaylova
-  year: 2015
-  where: 10th Workshop on Sensor Data Fusion&#58; Trends, Solutions, Applications (SDF)
-  links:
-    - IEEE:
-      title: IEEE
-      url: http://ieeexplore.ieee.org/document/7347706/
-    - ResearchGate:
-      title: ResearchGate
-      url: https://www.researchgate.net/publication/283667091_Compressive_Sensing_Approaches_for_Autonomous_Object_Detection_in_Video_Sequences?ev=prf_pub
+-2015:
+    - bcs:
+      title: Compressive sensing approaches for autonomous object detection in video sequences
+      authors:
+        - Danil Kuzin
+        - Olga Isupova
+        - Lyudmila Mihaylova
+      where: 10th Workshop on Sensor Data Fusion&#58; Trends, Solutions, Applications (SDF)
+      links:
+        - IEEE:
+          title: IEEE
+          url: http://ieeexplore.ieee.org/document/7347706/
+        - ResearchGate:
+          title: ResearchGate
+          url: https://www.researchgate.net/publication/283667091_Compressive_Sensing_Approaches_for_Autonomous_Object_Detection_in_Video_Sequences?ev=prf_pub
 
-- title: An expectation maximisation algorithm for behaviour analysis in video
-  authors:
-    - Olga Isupova
-    - Danil Kuzin
-    - Lyudmila Mihaylova
-    - Garik Markarian
-    - Francois Septier
-  year: 2015
-  where: 18th International Conference on Information Fusion (Fusion)
-  links:
-    - IEEE:
-      title: IEEE
-      url: http://ieeexplore.ieee.org/document/7266553/
-    - ResearchGate:
-      title: ResearchGate
-      url: https://www.researchgate.net/publication/303620627_An_Expectation_Maximisation_Algorithm_for_Behaviour_Analysis_in_Video
-    - YouTube:
-      title: YouTube
-      url: https://www.youtube.com/watch?v=Owy2S4dkbtc
+    - em_mctm:
+      title: An expectation maximisation algorithm for behaviour analysis in video
+      authors:
+        - Olga Isupova
+        - Danil Kuzin
+        - Lyudmila Mihaylova
+        - Garik Markarian
+        - Francois Septier
+      where: 18th International Conference on Information Fusion (Fusion)
+      links:
+        - IEEE:
+          title: IEEE
+          url: http://ieeexplore.ieee.org/document/7266553/
+        - ResearchGate:
+          title: ResearchGate
+          url: https://www.researchgate.net/publication/303620627_An_Expectation_Maximisation_Algorithm_for_Behaviour_Analysis_in_Video
+        - YouTube:
+          title: YouTube
+          url: https://www.youtube.com/watch?v=Owy2S4dkbtc
 
-- title: Abnormal behaviour detection in video using topic modeling
-  authors:
-    - Olga Isupova
-    - Danil Kuzin
-    - Lyudmila Mihaylova
-  year: 2015
-  where: University of Sheffield Engineering Symposium
-  links:
-    - WhiteRose:
-      title: WhiteRose
-      url: http://eprints.whiterose.ac.uk/103943/
+    - uses:
+      title: Abnormal behaviour detection in video using topic modeling
+      authors:
+        - Olga Isupova
+        - Danil Kuzin
+        - Lyudmila Mihaylova
+      where: University of Sheffield Engineering Symposium
+      links:
+        - WhiteRose:
+          title: WhiteRose
+          url: http://eprints.whiterose.ac.uk/103943/
 
-- title: Matching a hierarchical topic model with external subject authorities
-  authors:
-    - Olga Isupova
-  year: 2012
-  where: International Conference of Students and Young Scientists "Lomonosov-2012"
+- 2012:
+    - lomonosov:
+      title: Matching a hierarchical topic model with external subject authorities
+      authors:
+        - Olga Isupova
+      where: International Conference of Students and Young Scientists "Lomonosov-2012"
