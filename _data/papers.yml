@@ -1,3 +1,4 @@
+## 2018
 - title: Spatio-Temporal Structured Sparse Regression with Hierarchical Gaussian Process Priors
   authors:
     - Danil Kuzin
@@ -12,6 +13,9 @@
     - arXiv:
       title: arXiv
       url: https://arxiv.org/abs/1807.05561
+    - Code:
+      title: Code
+      url: https://github.com/danilkuzin/Spatio-Temporal-Structured-Sparse-Regression-With-Hierarchical-Gaussian-Process-Priors
 
 - title: Ensemble Kalman Filtering for Online Gaussian Process Regression and Learning
   authors:
@@ -22,6 +26,9 @@
   year: 2018
   where: 21st International Conference on Information Fusion (Fusion)
   links:
+    - IEEE:
+      title: IEEE
+      url: https://ieeexplore.ieee.org/document/8455785
     - arXiv:
       title: arXiv
       url: https://arxiv.org/abs/1807.03369
@@ -34,7 +41,7 @@
     - Olga Isupova
     - Danil Kuzin
     - Lyudmila Mihaylova
-  year: 2017
+  year: 2018
   where: IEEE Transactions on Neural Networks and Learning Systems
   links:
     - IEEE:
