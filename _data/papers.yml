@@ -58,8 +58,8 @@
           url: https://github.com/OlgaIsupova/Learning_methods_dynamic_TM
    
 - 2017:
-   title: 2017
-   papers:
+  title: 2017
+  papers:
     - flamedet_j:
       title: Autonomous Flame Detection in Videos with a Dirichlet Process Gaussian Mixture Color Model
       authors:
@@ -103,8 +103,8 @@
           url: https://arxiv.org/abs/1704.08727
 
 - 2016:
-   title: 2016
-   papers:
+  title: 2016
+  papers:
     - flame_c:
       title: Autonomous flame detection in video based on saliency analysis and optical flow
       authors:
@@ -140,8 +140,8 @@
           url: https://github.com/OlgaIsupova/dynamic-hdp
 
 - 2015:
-   title: 2015
-   papers:
+  title: 2015
+  papers:
     - bcs:
       title: Compressive sensing approaches for autonomous object detection in video sequences
       authors:
@@ -190,8 +190,8 @@
           url: http://eprints.whiterose.ac.uk/103943/
 
 - 2012:
-   title: 2012
-   papers:
+  title: 2012
+  papers:
     - lomonosov:
       title: Matching a hierarchical topic model with external subject authorities
       authors:
