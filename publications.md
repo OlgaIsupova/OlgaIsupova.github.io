@@ -6,7 +6,7 @@ title: Publications and Code
 # Publications and Code
 
 {% for year in site.data.papers %}
- * **{{ year.title}}**
+ <h2> {{ year.title}} </h2>
  {% for paper in year.papers %}
    * {{ paper.authors | array_to_sentence_string }} \\
      **{{ paper.title}}** \\
