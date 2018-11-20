@@ -1,6 +1,33 @@
 - 2018:
   title: 2018
   papers:
+    - DPHDPHMM:
+      title: Discovering Dynamic Topic Transitions in Topic Models
+      authors:
+        - Olga Isupova
+        - Danil Kuzin
+        - Lyudmila Mihaylova
+      where: NeurIPS 2018 All of Bayesian Nonparametrics (Especially the Useful Bits) Workshop
+  
+    - bLISTA:
+      title: Uncertainty propagation in neural networks for sparse coding
+      authors:
+        - Danil Kuzin
+        - Olga Isupova
+        - Lyudmila Mihaylova
+      where: NeurIPS 2018 Bayesian Deep Learning Workshop 
+  
+    - ml4d:
+      title: 'BCCNet: Bayesian classifier combination neural network'
+      authors:
+        - Olga Isupova
+        - Yunpeng Li
+        - Danil Kuzin
+        - Stephen J Roberts
+        - Katherine Willis
+        - Steven Reece
+      where: 'NeurIPS 2018 Machine Learning for the Developing World (ML4D): Achieving sustainable impact Workshop'
+      
     - spsl:
       title: Spatio-Temporal Structured Sparse Regression with Hierarchical Gaussian Process Priors
       authors:
@@ -138,6 +165,18 @@
         - Code:
           title: Code
           url: https://github.com/OlgaIsupova/dynamic-hdp
+          
+    - dynamic_hdp_workshop:
+      title: Anomaly detection in video with Bayesian nonparametrics 
+      authors:
+        - Olga Isupova
+        - Danil Kuzin
+        - Lyudmila Mihaylova
+      where: ICML Anomaly Detection Workshop
+      links:
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/1606.08455
 
 - 2015:
   title: 2015
