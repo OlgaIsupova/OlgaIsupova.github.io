@@ -12,7 +12,7 @@ title: Publications and Code
      **{{ paper.title}}** \\
      {{ paper.where}} 
      {% if paper.achievements %} \\
-       {% for achievement in paper.achievements %} **{{ achive}}** {% endfor %}
+       {% for achievement in paper.achievements %} **{{achievement.title}}** {% endfor %}
      {% endif %}
      {% if paper.links %} \\
        {% for link in paper.links %} [ {{ link.title}} ]({{link.url}}) {% endfor %}
