@@ -26,7 +26,8 @@
         - Stephen J Roberts
         - Katherine Willis
         - Steven Reece
-      where: 'NeurIPS 2018 Machine Learning for the Developing World (ML4D): Achieving sustainable impact Workshop'
+      where: NeurIPS 2018 Workshop on Machine Learning for the Developing World
+      achivements: Spotlight
       
     - spsl:
       title: Spatio-Temporal Structured Sparse Regression with Hierarchical Gaussian Process Priors
