@@ -27,7 +27,9 @@
         - Katherine Willis
         - Steven Reece
       where: NeurIPS 2018 Workshop on Machine Learning for the Developing World
-      achivements: Spotlight
+      achievements: 
+        - Spotlight:
+          title: Spotlight
       
     - spsl:
       title: Spatio-Temporal Structured Sparse Regression with Hierarchical Gaussian Process Priors
