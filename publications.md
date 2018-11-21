@@ -10,12 +10,12 @@ title: Publications and Code
  {% for paper in year.papers %}
    * {{ paper.authors | array_to_sentence_string }} \\
      **{{ paper.title}}** \\
-     {{ paper.where}} 
-     {% if paper.achievements %} \\
-       {% for achievement in paper.achievements %} **{{achievement.title}}** {% endfor %}
+     {{ paper.where}} \\
+     {% if paper.achievements %}
+       {% for achievement in paper.achievements %} **{{achievement.title}}** {% endfor %} \\
      {% endif %}
-     {% if paper.links %} \\
-       {% for link in paper.links %} [ {{ link.title}} ]({{link.url}}) {% endfor %}
+     {% if paper.links %}
+       {% for link in paper.links %} [ {{ link.title}} ]({{link.url}}) {% endfor %} \\
      {% endif %}
    {% endfor %}
 {% endfor %}
