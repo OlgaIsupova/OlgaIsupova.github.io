@@ -1,6 +1,21 @@
 - 2018:
   title: 2018
   papers:
+    - ml4d:
+      title: 'BCCNet: Bayesian classifier combination neural network --- Best paper award'
+      authors:
+        - Olga Isupova
+        - Yunpeng Li
+        - Danil Kuzin
+        - Stephen J Roberts
+        - Katherine Willis
+        - Steven Reece
+      where: NeurIPS 2018 Workshop on Machine Learning for the Developing World
+      links:
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/1811.12258
+  
     - DPHDPHMM:
       title: Discovering Dynamic Topic Transitions in Topic Models
       authors:
@@ -20,26 +35,6 @@
         - arXiv:
           title: arXiv
           url: https://arxiv.org/abs/1811.12465
-  
-    - ml4d:
-      title: 'BCCNet: Bayesian classifier combination neural network'
-      authors:
-        - Olga Isupova
-        - Yunpeng Li
-        - Danil Kuzin
-        - Stephen J Roberts
-        - Katherine Willis
-        - Steven Reece
-      where: NeurIPS 2018 Workshop on Machine Learning for the Developing World
-      achievements: 
-        - BestPaper:
-          title: Best Paper
-        - Spotlight:
-          title: Spotlight
-      links:
-        - arXiv:
-          title: arXiv
-          url: https://arxiv.org/abs/1811.12258
       
     - spsl:
       title: Spatio-Temporal Structured Sparse Regression with Hierarchical Gaussian Process Priors
