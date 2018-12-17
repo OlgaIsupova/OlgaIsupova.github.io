@@ -16,6 +16,10 @@
         - Olga Isupova
         - Lyudmila Mihaylova
       where: NeurIPS 2018 Bayesian Deep Learning Workshop 
+      links:
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/1811.12465
   
     - ml4d:
       title: 'BCCNet: Bayesian classifier combination neural network'
@@ -28,8 +32,14 @@
         - Steven Reece
       where: NeurIPS 2018 Workshop on Machine Learning for the Developing World
       achievements: 
+        - BestPaper:
+          title: Best Paper
         - Spotlight:
           title: Spotlight
+      links:
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/1811.12258
       
     - spsl:
       title: Spatio-Temporal Structured Sparse Regression with Hierarchical Gaussian Process Priors
