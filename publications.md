@@ -11,8 +11,8 @@ title: Publications and Code
    * {{ paper.authors | array_to_sentence_string }} \\
      **{{ paper.title}}** \\
      {{ paper.where}}
-     {% if paper.links %} \\ 
-       {% for link in paper.links %} [ {{ link.title}} ]({{link.url}}) {% endfor %} 
+     {% if paper.links %} \\
+       {% for link in paper.links %} [ {{ link.title}} ]({{link.url}}) {% endfor %}
      {% endif %}
    {% endfor %}
 {% endfor %}
