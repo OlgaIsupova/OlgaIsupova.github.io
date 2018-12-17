@@ -12,9 +12,7 @@ title: Publications and Code
      **{{ paper.title}}** \\
      {{ paper.where}}
      {% if paper.links %} \\ 
-       {% for link in paper.links %} 
-          [ {{ link.title}} ]({{link.url}}) 
-       {% endfor %} 
+       {% for link in paper.links %} [ {{ link.title}} ]({{link.url}}) {% endfor %} 
      {% endif %}
    {% endfor %}
 {% endfor %}
