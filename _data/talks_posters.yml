@@ -1,3 +1,48 @@
+- title: "BCCNet: Bayesian Classifier Combination Neural Network"
+  authors:
+    - Olga Isupova
+    - Yunpeng Li
+    - Danil Kuzin
+    - Stephen J Roberts
+    - Katherine Willis
+    - Steven Reece
+  year: 2018
+  where: NeurIPS Machine Learning for the Developing World Workshop
+  links:
+    - arXiv:
+      title: arXiv
+      url: https://arxiv.org/abs/1811.12258
+    - poster:
+      title: poster
+      url: files/posters/BCCNer_Poster.pdf
+      
+- title: Discovering Dynamic Topic Transitions in Topic Models
+  authors:
+    - Olga Isupova
+    - Danil Kuzin
+    - Lyudmila Mihaylova
+  year: 2018
+  where: NeurIPS All of Bayesian Nonparametrics
+  links:
+    - poster:
+      title: poster
+      url: files/posters/DP_HDPHMMposter.pdf
+      
+- title: Uncertainty Propagation in Neural Networks for Sparse Coding
+  authors:
+    - Danil Kuzin
+    - Olga Isupova
+    - Lyudmila Mihaylova
+  year: 2018
+  where: NeurIPS Bayesian Deep Learning Workshop
+  links:
+    - arXiv:
+      title: arXiv
+      url: https://arxiv.org/abs/1811.12465
+    - poster:
+      title: poster
+      url: files/posters/BayesianLISTAposter.pdf
+
 - title: Structured Sparse Modelling with Hierarchical GP
   authors:
     - Danil Kuzin
