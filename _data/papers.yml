@@ -8,6 +8,19 @@
         - Olga Isupova
         - Lyudmila Mihaylova
       where: International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+      links: 
+        - IEEE:
+          title: IEEE
+          url: https://ieeexplore.ieee.org/document/8682174
+          
+    - egu:
+      title: 'Disaster response: Leveraging wide area earth observation with machine learning'
+      authors:
+        - Olga Isupova
+        - Danil Kuzin
+        - Brooke Simmons
+        - Steven Reece
+      where: General Assembly 2019 of the European Geosciences Union
 
 - 2018:
   title: 2018
