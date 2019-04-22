@@ -47,6 +47,10 @@
         - Danil Kuzin
         - Lyudmila Mihaylova
       where: NeurIPS 2018 All of Bayesian Nonparametrics (Especially the Useful Bits) Workshop
+      links:
+        - pdf:
+          title: pdf
+          url: https://drive.google.com/file/d/1n2A7NxpVdo3luxTYLyl6D6A79dm9rPT8/view
   
     - bLISTA:
       title: Uncertainty propagation in neural networks for sparse coding
