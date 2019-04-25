@@ -39,6 +39,9 @@
         - arXiv:
           title: arXiv
           url: https://arxiv.org/abs/1811.12258
+        - Code:
+          title: Code
+          url: https://github.com/OlgaIsupova/BCCNet
   
     - DPHDPHMM:
       title: Discovering Dynamic Topic Transitions in Topic Models
