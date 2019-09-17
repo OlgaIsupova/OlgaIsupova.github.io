@@ -1,6 +1,15 @@
 - 2019:
   title: 2019
   papers:
+    - ukalliance:
+      title: 'Rapid post disaster damage mapping with satellite imagery, citizen scientists and machine learning'
+      authors:
+        - Olga Isupova
+        - Danil Kuzin
+        - Brooke Simmons
+        - Steven Reece
+      where: General Assembly 2019 of the European Geosciences Union
+  
     - icassp:
       title: 'Baysian neural networks for sparse coding'
       authors:
@@ -44,7 +53,7 @@
           url: https://github.com/OlgaIsupova/BCCNet
   
     - DPHDPHMM:
-      title: Discovering Dynamic Topic Transitions in Topic Models
+      title: Discovering dynamic topic transitions in topic models
       authors:
         - Olga Isupova
         - Danil Kuzin
@@ -68,7 +77,7 @@
           url: https://arxiv.org/abs/1811.12465
       
     - spsl:
-      title: Spatio-Temporal Structured Sparse Regression with Hierarchical Gaussian Process Priors
+      title: Spatio-temporal structured sparse regression with hierarchical Gaussian process priors
       authors:
         - Danil Kuzin
         - Olga Isupova
@@ -86,7 +95,7 @@
           url: https://github.com/danilkuzin/Spatio-Temporal-Structured-Sparse-Regression-With-Hierarchical-Gaussian-Process-Priors
 
     - gpenkf:
-      title: Ensemble Kalman Filtering for Online Gaussian Process Regression and Learning
+      title: Ensemble Kalman filtering for online Gaussian process regression and learning
       authors:
         - Danil Kuzin
         - Le Yang
@@ -127,7 +136,7 @@
   title: 2017
   papers:
     - flamedet_j:
-      title: Autonomous Flame Detection in Videos with a Dirichlet Process Gaussian Mixture Color Model
+      title: Autonomous flame detection in videos with a Dirichlet process Gaussian mixture color model
       authors:
         - Zhenglin Li
         - Olga Isupova
@@ -140,7 +149,7 @@
           url: http://ieeexplore.ieee.org/document/8093689/ 
 
     - logo:
-      title: Online Vehicle Logo Recognition Using Cauchy Prior Logistic Regression
+      title: Online vehicle logo recognition using Cauchy prior logistic regression
       authors:
         - Ruilong Chen
         - Matthew Hawes
@@ -188,7 +197,7 @@
           url: https://www.researchgate.net/publication/313691476_Autonomous_flame_detection_in_video_based_on_saliency_analysis_and_optical_flow
 
     - dynamic_hdp:
-      title: Dynamic Hierarchical Dirichlet Process for abnormal behaviour detection in video
+      title: Dynamic hierarchical Dirichlet process for abnormal behaviour detection in video
       authors:
         - Olga Isupova
         - Danil Kuzin
