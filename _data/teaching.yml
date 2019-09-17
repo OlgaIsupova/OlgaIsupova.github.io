@@ -1,8 +1,24 @@
+- title: Advanced Probability
+  role: Lead of revision class
+  year: 2019
+  where: Department of Engineering Science, University of Oxford
+
 - title: Intelligent and Vision Systems
-  role: Laboratory sessions assistant
+  role: Laboratory session assistant
   year: 2016
   where: Department of Automatic Control and Systems Engineering, the University of Sheffield
   links:
     - CoursePage:
       title: Course Page
-      url: https://www.sheffield.ac.uk/acse/current/modules/acs6123
+      url: https://www.sheffield.ac.uk/acse/current/modules1819/acs6123
+      
+- title: Mathematical Foundation of Prediction Theory
+  role: Examiner
+  year: 2013
+  where: Department of Mathematical Methods for Forecasting, Lomonosov Moscow State University  
+  
+- title: Entering Exam on Mathematics
+  role: Examiner
+  year: 2013
+  where: Faculty of Computational Mathematics and Cybernetics, Lomonosov Moscow State University
+ 
