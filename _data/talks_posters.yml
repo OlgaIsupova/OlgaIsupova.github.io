@@ -1,3 +1,13 @@
+- title: ML for Social Good: Success Stories and Challenges
+  authors:
+    - Olga Isupova
+  year: 2019
+  where: Open Data Science Conference Europe 2019
+  links:
+    - slides: 
+      title: slides
+      url: https://docs.google.com/presentation/d/1aKCvLsZqtIGXzNHvMEREMqnlCJOFVv-ccYvB4TUO6R8/edit?usp=sharing
+
 - title: "BCCNet: Bayesian Classifier Combination Neural Network"
   authors:
     - Olga Isupova
