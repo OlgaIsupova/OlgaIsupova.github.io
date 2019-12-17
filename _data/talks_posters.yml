@@ -7,6 +7,9 @@
     - slides: 
       title: slides
       url: https://docs.google.com/presentation/d/1aKCvLsZqtIGXzNHvMEREMqnlCJOFVv-ccYvB4TUO6R8/edit?usp=sharing
+    - video:
+      title: video
+      url: https://www.dropbox.com/s/q33fmf5ku8iut23/reims%203%201.mov?dl=0
 
 - title: "BCCNet: Bayesian Classifier Combination Neural Network"
   authors:
