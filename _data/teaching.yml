@@ -1,5 +1,23 @@
+- title: Interdisciplinary research preparation
+  role: Lecturer
+  year: 2020
+  where: Department of Computer Science, University of Bath
+  links:
+    - CoursePage:
+      title: Course Page
+      url: http://www.bath.ac.uk/catalogues/2019-2020/cm/CM50306.html
+
+- title: AI Challenge
+  role: Lecturer
+  year: 2020
+  where: Department of Computer Science, University of Bath
+  links:
+    - CoursePage:
+      title: Course Page
+      url: http://www.bath.ac.uk/catalogues/2019-2020/cm/CM50304.html
+
 - title: Advanced Probability
-  role: Lead of revision class
+  role: Leader of revision class
   year: 2019
   where: Department of Engineering Science, University of Oxford
 
