@@ -1,3 +1,21 @@
+- title: Artificial Intelligence
+  role: Lecturer
+  year: 2020-2021
+  where: Department of Computer Science, University of Bath
+  links:
+    - CoursePage:
+      title: Course Page
+      url: https://www.bath.ac.uk/catalogues/2020-2021/cm/CM10310.html
+
+- title: AI Challenge
+  role: Lecturer
+  year: 2020-2021
+  where: Department of Computer Science, University of Bath
+  links:
+    - CoursePage:
+      title: Course Page
+      url: https://www.bath.ac.uk/catalogues/2020-2021/cm/CM50304.html
+
 - title: Interdisciplinary research preparation
   role: Lecturer
   year: 2020
@@ -6,15 +24,6 @@
     - CoursePage:
       title: Course Page
       url: http://www.bath.ac.uk/catalogues/2019-2020/cm/CM50306.html
-
-- title: AI Challenge
-  role: Lecturer
-  year: 2020
-  where: Department of Computer Science, University of Bath
-  links:
-    - CoursePage:
-      title: Course Page
-      url: http://www.bath.ac.uk/catalogues/2019-2020/cm/CM50304.html
 
 - title: Advanced Probability
   role: Leader of revision class
