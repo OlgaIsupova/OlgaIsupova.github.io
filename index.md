@@ -11,4 +11,4 @@ from [Lomonosov Moscow State University](http://www.msu.ru/en/).
 
 My research interests are in machine learning, including such topics as Bayesian modelling, deep learning, reinforcement learning, crowdsourcing, topic modeling and sparse modelling.
 
-I was a top-400 reviewer at NeurIPS 2019 and top-5% reviewer at ICML 2019.
+I was a top reviewer at NeurIPS 2019-2020 and ICML 2019-2020.
