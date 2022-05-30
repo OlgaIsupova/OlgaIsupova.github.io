@@ -7,6 +7,9 @@
   year: 2021
   where: NeurIPS 2021 Artificial Intelligence for Humanitarian Assistance and Disaster Response Workshop (AI + HADR)
   links:
+    - arXiv:
+      title: arXiv
+      url: https://arxiv.org/abs/2111.03693
     - poster: 
       title: poster
       url: files/posters/ai_hadr_2021_poster.pdf
@@ -24,6 +27,9 @@
   year: 2021
   where: CV4Animals: Computer Vision for Animal Behavior Tracking and Modeling Workshop at Computer Vision and Pattern Recognition (CVPR) 2021
   links:
+    - pdf:
+      title: PDF
+      url: https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.195
     - poster: 
       title: poster
       url: files/posters/CV4Animal2021_Elephant_detection_poster.pdf
