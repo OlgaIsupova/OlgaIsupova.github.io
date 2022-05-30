@@ -10,6 +10,9 @@
     - poster: 
       title: poster
       url: files/posters/ai_hadr_2021_poster.pdf
+    - video:
+      title: video
+      url: https://neurips.cc/virtual/2021/workshop/21858#wse-detail-38056
 
 - title: "Using very-high-resolution satellite imagery and deep learning to detect African Elephants (Loxodonta Africana)"
   authors:
@@ -23,7 +26,7 @@
   links:
     - poster: 
       title: poster
-      url: files/posters/count_elephant_poster.pdf
+      url: files/posters/CV4Animal2021_Elephant_detection_poster.pdf
 
 - title: "Machine learning: Not to Destroy but Create"
   authors:
