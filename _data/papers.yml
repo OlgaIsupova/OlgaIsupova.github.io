@@ -24,7 +24,7 @@
       where: Remote Sensing in Ecology and Conservation AND CV4Animals Computer Vision for Animal Behavior Tracking and Modeling Workshop at Computer Vision and Pattern Recognition (CVPR) 2021 
       links:
         - ZLS:
-          title: ZLS (PDF)
+          title: ZLS (pdf)
           url: https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.195
     - neuralnetworks:
       title: 'Using echo state networks to approximate value functions for control'
@@ -52,7 +52,7 @@
       where: Sensors
       links:
         - journal:
-          title: MDPI (PDF)
+          title: MDPI (pdf)
           url: https://www.mdpi.com/1424-8220/20/23/6936
 
 - 2019:
@@ -79,7 +79,7 @@
           title: IEEE
           url: https://ieeexplore.ieee.org/document/8682174
         - pdf:
-          title: PDF
+          title: pdf
           url: https://eprints.whiterose.ac.uk/142838/1/ICASSP2019_BayesianNNForSparseCoding_revised.pdf
           
     - egu:
