@@ -1,3 +1,43 @@
+- title: "Disaster mapping from satellites: damage detection with crowdsourced point labels"
+  authors:
+    - Danil Kuzin
+    - Olga Isupova
+    - Brooke D. Simmons
+    - Steven Reece
+  year: 2021
+  where: NeurIPS 2021 Artificial Intelligence for Humanitarian Assistance and Disaster Response Workshop (AI + HADR)
+  links:
+    - poster: 
+      title: poster
+      url: files/posters/ai_hadr_2021_poster.pdf
+
+- title: "Using very-high-resolution satellite imagery and deep learning to detect African Elephants (Loxodonta Africana)"
+  authors:
+    - Isla Duporge
+    - Olga Isupova
+    - Steven Reece
+    - David W. Macdonald
+    - Tiejun Wang
+  year: 2021
+  where: CV4Animals: Computer Vision for Animal Behavior Tracking and Modeling Workshop at Computer Vision and Pattern Recognition (CVPR) 2021
+  links:
+    - poster: 
+      title: poster
+      url: files/posters/count_elephant_poster.pdf
+
+- title: "Machine learning: Not to Destroy but Create"
+  authors:
+    - Olga Isupova
+  year: 2020
+  where: TEDxBath University
+  links:
+    - slides: 
+      title: slides
+      url: https://docs.google.com/presentation/d/1C-yQk8HLTbbh2nEYXYViYUEqdtWx2Hmo/edit?usp=sharing&ouid=116092622733933304917&rtpof=true&sd=true
+    - video:
+      title: video
+      url: https://www.youtube.com/watch?v=TrD4JrLdlRM&ab_channel=TEDxTalks
+
 - title: "ML for Social Good: Success Stories and Challenges"
   authors:
     - Olga Isupova
