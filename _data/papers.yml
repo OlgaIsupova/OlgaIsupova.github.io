@@ -2,13 +2,13 @@
   title: 2021
   papers:
     - ai_hadr:
-      title: 'Disaster mapping from satellites: damage detection with crowdsourced point labels'
+      title: 'Disaster mapping from satellites: damage detection with crowdsourced point labels --- Oral'
       authors:
         - Danil Kuzin
         - Olga Isupova
         - Brooke D Simmons
         - Steven Reece
-      where: NeurIPS 2021 Artificial Intelligence for Humanitarian Assistance and Disaster Response Workshop (AI + HADR) (oral)
+      where: NeurIPS 2021 Artificial Intelligence for Humanitarian Assistance and Disaster Response Workshop (AI + HADR)
       links:
         - arXiv:
           title: arXiv
@@ -35,7 +35,7 @@
         - Olga Isupova
         - J. H. P. Dawes
       where: Submitted for publication
-        links:
+      links:
         - arXiv:
           title: arXiv
           url: https://arxiv.org/abs/2102.06258
@@ -50,6 +50,10 @@
         - Olga Isupova
         - Steven Reece
       where: Sensors
+      links:
+        - journal:
+          title: MDPI (PDF)
+          url: https://www.mdpi.com/1424-8220/20/23/6936
 
 - 2019:
   title: 2019
@@ -74,6 +78,9 @@
         - IEEE:
           title: IEEE
           url: https://ieeexplore.ieee.org/document/8682174
+        - pdf:
+          title: PDF
+          url: https://eprints.whiterose.ac.uk/142838/1/ICASSP2019_BayesianNNForSparseCoding_revised.pdf
           
     - egu:
       title: 'Disaster response: Leveraging wide area earth observation with machine learning'
