@@ -1,3 +1,56 @@
+- 2021:
+  title: 2021
+  papers:
+    - ai_hadr:
+      title: 'Disaster mapping from satellites: damage detection with crowdsourced point labels'
+      authors:
+        - Danil Kuzin
+        - Olga Isupova
+        - Brooke D Simmons
+        - Steven Reece
+      where: NeurIPS 2021 Artificial Intelligence for Humanitarian Assistance and Disaster Response Workshop (AI + HADR) (oral)
+      links:
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/2111.03693
+    - remote_sensing:
+      title: 'Using very‐high‐resolution satellite imagery and deep learning to detect and count African elephants in heterogeneous landscapes'
+      authors:
+        - Isla Duporge
+        - Olga Isupova
+        - Steven Reece
+        - David W. Macdonald
+        - Tiejun Wang
+      where: Remote Sensing in Ecology and Conservation & CV4Animals: Computer Vision for Animal Behavior Tracking and Modeling Workshop at Computer Vision and Pattern Recognition (CVPR) 2021 
+      links:
+        - ZLS:
+          title: ZLS (PDF)
+          url: https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.195
+    - neuralnetworks:
+      title: 'Using echo state networks to approximate value functions for control'
+      authors:
+        - Allen G. Hart
+        - Kevin R. Olding
+        - A. M. G. Cox
+        - Olga Isupova
+        - J. H. P. Dawes
+      where: Submitted for publication
+        links:
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/2102.06258
+
+- 2020:
+  title: 2020
+  papers:
+    - sensors:
+      title: 'Mining and tailings dam detection in satellite imagery using deep learning'
+      authors:
+        - Remis Balaniuk
+        - Olga Isupova
+        - Steven Reece
+      where: Sensors
+
 - 2019:
   title: 2019
   papers:
