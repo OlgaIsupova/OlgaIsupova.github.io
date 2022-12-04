@@ -1,3 +1,37 @@
+- 2022:
+  title: 2022
+  papers:
+    - acoustics:
+      title: 'Exploring the use of AI in marine acoustic sensor management'
+      authors:
+        - Edward Clark
+        - Alan Hunter
+        - Olga Isupova
+        - Marcus Donnelly
+      where: Meetings on Acoustics ICUA2022
+      links:
+        - SCitation:
+          title: SCitation (pdf)
+          url: https://asa.scitation.org/doi/abs/10.1121/2.0001601
+    - acoustics:
+      title: 'Exploring the use of AI in marine acoustic sensor management'
+      authors:
+        - Prasad Nishtala 
+        - Neil Mchugh 
+        - William Tillett 
+        - Sarah Skeoch
+        - Jennifer Humphreys
+        - John Pauling
+        - Olga Isupova 
+        - Anita Mcgrogan
+        - Julia Snowball
+        - Sandipan Roy
+      where: Annals of the Rheumatic Diseases
+      links:
+        - BMJ:
+          title: BMJ (pdf)
+          url: https://ard.bmj.com/content/81/Suppl_1/1047.2
+
 - 2021:
   title: 2021
   papers:
