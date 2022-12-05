@@ -7,16 +7,6 @@
     - Tiejun Wang
   year: 2022
   where: Deep Learning for Environmental Problems – Maths4DL workshop
-  links:
-    - arXiv:
-      title: arXiv
-      url: https://arxiv.org/abs/2111.03693
-    - poster: 
-      title: poster
-      url: files/posters/ai_hadr_2021_poster.pdf
-    - video:
-      title: video
-      url: https://neurips.cc/virtual/2021/workshop/21858#wse-detail-38056
 
 - title: "Disaster mapping from satellites: damage detection with crowdsourced point labels"
   authors:
