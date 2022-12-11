@@ -13,8 +13,8 @@
         - SCitation:
           title: SCitation (pdf)
           url: https://asa.scitation.org/doi/abs/10.1121/2.0001601
-    - acoustics:
-      title: 'Exploring the use of AI in marine acoustic sensor management'
+    - bmj:
+      title: 'POS1411 Artificial intelligence for identifying new disease clusters in patients with psoriatic arthritis/pso- riasis: a proof-of-concept study'
       authors:
         - Prasad Nishtala 
         - Neil Mchugh 
