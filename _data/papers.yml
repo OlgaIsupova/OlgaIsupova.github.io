@@ -1,3 +1,93 @@
+- 2025:
+  title: 2025
+  papers:
+    - rhino:
+      title: 'Automated rhinoceros detection in satellite imagery using deep learning'
+      authors:
+        - Isla Duporge
+        - Xiaomin Lin
+        - Aadi Palnitkar
+        - Arjun Suresh
+        - Olga Isupova
+        - Daniel Rubenstein
+        - John Yiannis Aloimonos
+      where: Scientific Reports
+      links: 
+        - ScientificReports:
+          title: Scientific Reports (pdf)
+          url: https://www.nature.com/articles/s41598-025-24178-2
+        - code: 
+          title: Code
+          url: https://github.com/sat-rhino/sat-rhino
+        - rhino_dataset:
+          title: rhino dataset
+          url: https://zenodo.org/records/17360632
+        - elephant_dataset:
+          title: elephant dataset
+          url: https://zenodo.org/records/17360762
+    - women_journal:
+      title: 'AI-Powered Conservation: Using Deep Learning and Satellite Imagery to Monitor African Elephant Populations'
+      authors:
+        - Isla Duporge
+        - Olga Isupova
+      where: Women in Engineering and Science
+      links:
+        - SpringerNature:
+          title: Springer Nature
+          url: https://link.springer.com/chapter/10.1007/978-3-031-95890-8_5
+    - softDS:
+      title: 'Improving Deep Ensembles by Estimating Confusion Matrices'
+      authors: 
+        - Danil Kuzin
+        - Olga Isupova
+        - Steven Reece
+        - Brooke D Simmons
+      where: arXiv
+      links:
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/2503.07119
+
+- 2024:
+  title: 2024
+  papers:
+    - BCCDetector:
+      title: 'Bayesian Detector Combination for Object Detection with Crowdsourced Annotations'
+      authors:
+        - Zhi Qin Tan
+        - Olga Isupova
+        - Gustavo Carneiro
+        - Xiatian Zhu
+        - Yunpeng Li
+      where: European Conference on Computer Vision
+      links:
+        - ECCV:
+          title: ECCV
+          url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08038.pdf
+        - arXiv:
+          title: arXiv
+          url: https://arxiv.org/abs/2407.07958
+        - code:
+          title: Code and data
+          url: https://github.com/zhiqin1998/bdc
+
+- 2023:
+  title: 2023
+  papers:
+    - clark:
+      title: 'Optimising Sensor Path Planning with Reinforcement Learning and Passive Sonar Modelling'
+      authors:
+        - Edward Clark
+        - Alan Hunter
+        - Olga Isupova
+        - Marcus Donnelly
+      where: 7th Underwater Acoustics Conference and Exhibition, UACE 2023
+      links: 
+        - UACE:
+          title: UACE (pdf)
+          url: https://www.uaconferences.org/docs/2023_papers/UACE2023_1915_Clark.pdf
+    
+
 - 2022:
   title: 2022
   papers:
@@ -60,6 +150,9 @@
         - ZLS:
           title: ZLS (pdf)
           url: https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.195
+        - elephant_dataset:
+          title: elephant dataset
+          url: https://zenodo.org/records/17360762
     - neuralnetworks:
       title: 'Using echo state networks to approximate value functions for control'
       authors:
