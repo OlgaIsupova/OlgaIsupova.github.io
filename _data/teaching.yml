@@ -2,29 +2,17 @@
   role: Lecturer
   year: 2020-2021 and 2022-2023
   where: Department of Computer Science, University of Bath
-  links:
-    - CoursePage:
-      title: Course Page
-      url: https://www.bath.ac.uk/catalogues/2022-2023/cm/CM10310.html
-
+  
 - title: AI Challenge
   role: Lecturer
   year: 2020-2021
   where: Department of Computer Science, University of Bath
-  links:
-    - CoursePage:
-      title: Course Page
-      url: https://www.bath.ac.uk/catalogues/2020-2021/cm/CM50304.html
-
+  
 - title: Interdisciplinary research preparation
   role: Lecturer
   year: 2020
   where: Department of Computer Science, University of Bath
-  links:
-    - CoursePage:
-      title: Course Page
-      url: http://www.bath.ac.uk/catalogues/2019-2020/cm/CM50306.html
-
+  
 - title: Advanced Probability
   role: Leader of revision class
   year: 2019
@@ -34,11 +22,7 @@
   role: Laboratory session assistant
   year: 2016
   where: Department of Automatic Control and Systems Engineering, the University of Sheffield
-  links:
-    - CoursePage:
-      title: Course Page
-      url: https://www.sheffield.ac.uk/acse/current/modules1819/acs6123
-      
+        
 - title: Mathematical Foundation of Prediction Theory
   role: Examiner
   year: 2013
