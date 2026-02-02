@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![Me]({{ site.url }}/images/quater_photo.jpg){:style="float:left;margin:0px 15px 15px 0px;"}]({{ site.url }}/images/Photo.jpg) I am a Senior Researcher in Artificial Intelligence at [University of Oxford](https://www.ox.ac.uk/), UK. 
+[![Me]({{ site.url }}/images/quater_photo.jpg){:style="float:left;margin:0px 15px 15px 0px;"}]({{ site.url }}/images/Photo.jpg) I am a Senior Researcher in Artificial Intelligence at [Leverhulme Centre for Nature Recovery](https://naturerecovery.ox.ac.uk/) at [University of Oxford](https://www.ox.ac.uk/), UK. 
 
 Prior to this I was a Lecturer (Assistant Professor) at [University of Bath](https://www.bath.ac.uk) and I was a postdoctoral researcher in the [Machine learning group](http://www.robots.ox.ac.uk/~parg/) at [University of Oxford](http://www.ox.ac.uk/).  
 
