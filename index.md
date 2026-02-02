@@ -2,13 +2,13 @@
 layout: default
 ---
 
-[![Me]({{ site.url }}/images/quater_photo.jpg){:style="float:left;margin:0px 15px 15px 0px;"}]({{ site.url }}/images/Photo.jpg) I am a Senior Researcher in Artificial Intelligence at [Leverhulme Centre for Nature Recovery](https://naturerecovery.ox.ac.uk/) at [University of Oxford](https://www.ox.ac.uk/), UK. 
+[![Me]({{ site.url }}/images/quater_photo.jpg){:style="float:left;margin:0px 15px 15px 0px;"}]({{ site.url }}/images/Photo.jpg) I am a Senior Researcher in Machine Learning at the [Leverhulme Centre for Nature Recovery](https://naturerecovery.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/).
 
-Prior to this I was a Lecturer (Assistant Professor) at [University of Bath](https://www.bath.ac.uk) and a postdoctoral researcher in the [Machine learning group](http://www.robots.ox.ac.uk/~parg/) at [University of Oxford](http://www.ox.ac.uk/).  
+I develop AI solutions for conservation and environmental challenges, specializing in computer vision and learning from noisy, limited data. 
+My work has shown that **elephant monitoring from satellite imagery is possible** (featured on BBC and other outlets(£13M media value), 180+ citations), **discovered 263 previously unregistered mines**, and advanced methods for learning from crowdsourced labels (Best Paper Award at NeurIPS workshop).
 
-I completed my PhD degree at the [University of Sheffield](http://www.sheffield.ac.uk/). The [PhD thesis](http://www.springer.com/us/book/9783319755076) is selected for Springer Thesis series. I have a specialist degree (equal to MS) in Applied Mathematics and System Programming 
-from [Lomonosov Moscow State University](http://www.msu.ru/en/). 
+I bridge theoretical ML innovation with real-world impact, combining deep learning and Bayesian methods to solve problems where data is messy, scarce, or unreliable. My research has generated **400+ citations** across satellite imagery analysis, conservation technology, and disaster response.
 
-My research interests are in machine learning, including such topics as Bayesian modelling, deep learning, unsupervised learning, crowdsourcing, topic modeling and sparse modelling.
+**Background:** Previously Lecturer (Assistant Professor) at University of Bath (2019-2023) and Postdoctoral Researcher at Oxford (2017-2019). PhD from University of Sheffield (*Springer Outstanding Thesis Award*). Top reviewer at NeurIPS and ICML. ICML Social Chair 2020-2022.
 
-I was a top reviewer at NeurIPS 2019-2020, 2022 and ICML 2019-2020. I was an ICML Social Chair in 2020-2022.
+**I'm currently exploring research opportunities in industry.**
