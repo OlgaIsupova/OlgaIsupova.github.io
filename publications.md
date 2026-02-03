@@ -15,7 +15,7 @@ and count African elephants in heterogeneous landscapes**
 
 Remote Sensing in Ecology and Conservation, 2021  
 
-**180+ citations | Top cited/downloaded paper 2019-2020**  
+**180+ citations Top cited/downloaded paper 2019-2020**  
 📰 [BBC Coverage](https://www.bbc.co.uk/news/science-environment-55737086) | 📄 [Paper](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.195) | 💾 [Data](https://zenodo.org/records/17360762)
 
 ### Mining Environmental Risk Assessment
@@ -25,7 +25,7 @@ R. Balaniuk, **O. Isupova**, S. Reece
 
 Sensors, 2020  
 
-**80+ citations | Discovered 263 unregistered mines**  
+**80+ citations Discovered 263 unregistered mines**  
 📄 [Paper](https://www.mdpi.com/1424-8220/20/23/6936) | 💾 [Code](https://github.com/remis/mining-discovery-with-deep-learning)
 
 ### Crowdsourced Learning (Best Paper Award 🏆)
