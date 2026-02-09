@@ -8,12 +8,8 @@ title: Publications and Code
 ## Highlighted Publications
 
 ### Elephant Detection from Satellite Imagery
-I. Duporge*, **O. Isupova***, S. Reece, D. W. Macdonald, T. Wang 
-
-**Using very high‐resolution satellite imagery and deep learning to detect 
-and count African elephants in heterogeneous landscapes** 
-
-Remote Sensing in Ecology and Conservation, 2021  
+I. Duporge*, **O. Isupova***, S. Reece, D. W. Macdonald, T. Wang. ``Using very high‐resolution satellite imagery and deep learning to detect 
+and count African elephants in heterogeneous landscapes'' *Remote Sensing in Ecology and Conservation*, 2021  
 
 **180+ citations Top cited/downloaded paper 2019-2020**  
 📰 [BBC Coverage](https://www.bbc.co.uk/news/science-environment-55737086) | 📄 [Paper](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.195) | 💾 [Data](https://zenodo.org/records/17360762)
@@ -41,9 +37,9 @@ NeurIPS Workshop on ML for Developing World, 2018
 {% for year in site.data.papers %}
  <h2> {{ year.title}} </h2>
  {% for paper in year.papers %}
-   * {{ paper.authors | array_to_sentence_string }} \\
-     **{{ paper.title}}** \\
-     {{ paper.where}}
+   * {{ paper.authors | array_to_sentence_string }}. 
+     ``{{ paper.title}}'' 
+     *{{ paper.where}}*
      {% if paper.links %} \\
        {% for link in paper.links %} [ {{ link.title}} ]({{link.url}}) {% endfor %}
      {% endif %}
