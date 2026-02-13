@@ -8,7 +8,7 @@ title: Publications and Code
 ## Highlighted Publications
 
 ### Elephant Detection from Satellite Imagery
-I. Duporge*, **O. Isupova***, S. Reece, D. W. Macdonald, T. Wang. ``Using very high‐resolution satellite imagery and deep learning to detect 
+I. Duporge\*, **O. Isupova**\*, S. Reece, D. W. Macdonald, T. Wang. ``Using very high‐resolution satellite imagery and deep learning to detect 
 and count African elephants in heterogeneous landscapes'' *Remote Sensing in Ecology and Conservation*, 2021  
 
 **180+ citations Top cited & downloaded paper 2019-2020**  
